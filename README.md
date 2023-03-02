@@ -23,6 +23,7 @@
 - Semantic HTML5 markup
 - CSS 
 - Flexbox
+- Normalize CSS
 
 ## Author
 
