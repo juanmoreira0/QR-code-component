@@ -13,8 +13,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [(https://www.frontendmentor.io/solutions/qr-code-component-GW7cUapfXU)](https://your-solution-url.com)
+- Live Site URL: [(https://qr-code-component-pi-two.vercel.app/)](https://your-live-site-url.com)
 
 ## My process
 
